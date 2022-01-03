@@ -1,0 +1,13 @@
+{
+  "name": "EXUTERUS",
+  "description": "Dialpading",
+  "launch_path": "/index.html",
+  "icons": {
+    "icon": "/icons/foto.png"
+  },
+  "developer": {
+    "name": "kelamahim"
+  }
+    
+  
+}
